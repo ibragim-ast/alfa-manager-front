@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid #fff;
+  min-height: 100px;
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.header-nav {
+  display: flex;
+}
+
+.header-nav-item {
+  margin-left: 20px;
+}

@@ -1,0 +1,6 @@
+.main {
+  flex-grow: 1;
+  padding: 20px;
+  border: 1px solid #fff;
+  min-height: 100vh;
+}

@@ -9,4 +9,6 @@ body {
     "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   color: white;
   background-color: #112d49;
+  max-width: 1440px;
+  width: 100%;
 }
